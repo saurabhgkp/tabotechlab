@@ -24,8 +24,8 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="ABOUT OUR ORGANIZATION"
+                paragraph="TubaTechLab Pvt Ltd is a Start-up company, certified by DPIIT & incorporated in June 2021. We are engaged in the research & development, promotion, production of a broad range of instruments for life science and healthca..."
                 mb="44px"
               />
 
@@ -55,7 +55,7 @@ const AboutSectionOne = () => {
                 data-wow-delay=".2s"
               >
                 <Image
-                  src="/images/about/about-image.svg"
+                  src="/images/about/about.png"
                   alt="about-image"
                   fill
                   className="mx-auto max-w-full lg:mr-0"
